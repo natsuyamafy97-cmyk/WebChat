@@ -13,12 +13,15 @@ git diff HEAD
 
 ## 2. ステージング（コミット対象に追加）
 特定ファイルをステージする場合
+
 git add ファイル名
 
 作業ディレクトリ全体をステージする場合
+
 git add .
 
 ステージ状態を確認
+
 git status
 
 Changes to be committed にファイルが表示されればOK
